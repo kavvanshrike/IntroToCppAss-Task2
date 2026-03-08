@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\AIE 2026\\Classes\\Intro to C\u002B\u002B\\IntroToCppAss-Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0455B9A8-38A5-464E-8A6E-54FA232ED48A}|IntroToCppAss-Task2\\IntroToCppAss-Task2.vcxproj|C:\\Users\\User\\Desktop\\AIE 2026\\Classes\\Intro to C\u002B\u002B\\IntroToCppAss-Task2\\IntroToCppAss-Task2\\IntroToCppAss-Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0455B9A8-38A5-464E-8A6E-54FA232ED48A}|IntroToCppAss-Task2\\IntroToCppAss-Task2.vcxproj|solutionrelative:IntroToCppAss-Task2\\IntroToCppAss-Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntroToCppAss-Task2.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AIE 2026\\Classes\\Intro to C\u002B\u002B\\IntroToCppAss-Task2\\IntroToCppAss-Task2\\IntroToCppAss-Task2.cpp",
+              "RelativeDocumentMoniker": "IntroToCppAss-Task2\\IntroToCppAss-Task2.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AIE 2026\\Classes\\Intro to C\u002B\u002B\\IntroToCppAss-Task2\\IntroToCppAss-Task2\\IntroToCppAss-Task2.cpp",
+              "RelativeToolTip": "IntroToCppAss-Task2\\IntroToCppAss-Task2.cpp",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-19T02:27:36.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
